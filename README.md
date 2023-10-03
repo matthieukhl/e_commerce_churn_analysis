@@ -35,3 +35,7 @@ The primary objective of this project is educational. I've undertaken this analy
 
 Feel free to explore the notebook and provide any feedback or contributions. Thank you!
 
+## About Dataset
+
+The dataset used for this project is sourced from Kaggle and can be found [here](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction). It provides various features that are significant for predicting customer churn in the E-Commerce sector.
+
